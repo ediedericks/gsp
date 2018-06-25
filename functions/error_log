@@ -1,0 +1,16 @@
+[19-Jun-2018 21:24:28 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:24:29 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:24:29 UTC] PHP Fatal error:  require(): Failed opening required '../mailgun/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:26:57 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:26:57 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:26:57 UTC] PHP Fatal error:  require(): Failed opening required '../mailgun/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/estiacof/public_html/gsp/functions/mailer.php on line 8
+[19-Jun-2018 21:40:39 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:40:39 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:40:39 UTC] PHP Fatal error:  require(): Failed opening required '../mailgun/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:40:56 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:40:56 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:40:56 UTC] PHP Fatal error:  require(): Failed opening required '../mailgun/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:44:46 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:44:46 UTC] PHP Warning:  require(../mailgun/vendor/autoload.php): failed to open stream: No such file or directory in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[19-Jun-2018 21:44:46 UTC] PHP Fatal error:  require(): Failed opening required '../mailgun/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/estiacof/public_html/gsp/functions/mailer.php on line 3
+[20-Jun-2018 09:54:39 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/estiacof/public_html/gsp/functions/mailer.php on line 92
